@@ -1,3 +1,8 @@
+Demo video
+
+https://drive.google.com/file/d/1Mh7fvdLs8xIX8XeHoR3XwEZyCdxqBABg/view?usp=drivesdk
+
+
 
 FOR BACKEND WE USE RENDER TO CONNECT, but Unfortunately OTP has generated in my localhost;
 https://abhaapp.onrender.com/aadhar/otp
@@ -89,13 +94,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-Demo Video:
 
-
-
-https://drive.google.com/file/d/1Mh7fvdLs8xIX8XeHoR3XwEZyCdxqBABg/view?usp=drivesdk
-
-  
 
 ### `npm run build` fails to minify
 
