@@ -1,3 +1,26 @@
+
+FOR BACKEND WE USE RENDER TO CONNECT, but Unfortunately OTP has generated in my localhost;
+https://abhaapp.onrender.com/aadhar/otp
+body:
+
+{
+    "aadhar": "type OTP"
+}
+
+But we believe we are capable of doing this project if you give some more time for our team
+
+Front end has been developed 
+
+1. Zip and DOwnload the complete github repository or git it by command git clone "git repo link";
+2. go to specied path and run
+3. npm start
+
+we havent redirected from login to dashboard it was not been authenticated but you can view our dashboard design.
+
+add to your path to see dashboard: '  /dashboard'                                          localhost:3000/dashboard 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
